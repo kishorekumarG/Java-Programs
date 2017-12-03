@@ -11,7 +11,6 @@ public class SumOfNaturalNumbers {
 		System.out.println("Sum: " + sum);
 		input.close();
 	}
-
 	public static int findSumUptoNumber(int number) {
 		int sum = (number * (number + 1)) / 2;
 		return sum;

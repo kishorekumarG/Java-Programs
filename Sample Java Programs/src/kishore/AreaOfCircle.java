@@ -14,7 +14,7 @@ public class AreaOfCircle {
 		System.out.println("Area of Circle: " + area);
 		input.close();
 	}
-
+	
 	public static double findAreaOfCircle(double radius) {
 		double area = pi * radius * radius;
 		return area;

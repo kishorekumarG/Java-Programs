@@ -5,9 +5,7 @@ import java.util.TreeSet;
 
 public class OddNumberSum {
 	public static void main(String[] args) {
-
 		Scanner input = new Scanner(System.in);
-
 		TreeSet<Integer> result = new TreeSet<Integer>();
 
 		int n = input.nextInt();

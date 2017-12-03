@@ -10,7 +10,6 @@ public class DuckNumber {
 		System.out.println("Duck Number : " + checkDuckNumber(number));
 		input.close();
 	}
-
 	public static boolean checkDuckNumber(int number) {
 		while (number > 0) {
 			if (number % 10 == 0) {

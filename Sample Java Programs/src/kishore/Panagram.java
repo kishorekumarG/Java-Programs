@@ -7,7 +7,8 @@ public class Panagram {
 		Scanner input = new Scanner(System.in);
 		String sequence = input.nextLine();
 		String[] alphabets = sequence.split(" ");
-	
+
+		
 		int N  = input.nextInt();
 		int[] index = new int[N];
 		

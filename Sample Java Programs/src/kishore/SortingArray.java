@@ -7,7 +7,6 @@ import java.util.Scanner;
  * Descending Order: Arrays.sort(numberArray, Collections.reverseOrder());
  * 						Note that it is only for wrapper class
  */
-
 public class SortingArray {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

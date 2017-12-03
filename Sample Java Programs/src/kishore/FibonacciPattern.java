@@ -12,7 +12,7 @@ public class FibonacciPattern {
 		System.out.println(getFibonacciSeries(limit));
 		input.close();
 	}
-
+	
 	// Method to get the fibonacci pattern and return as a list
 	public static List<Integer> getFibonacciSeries(int limit) {
 		List<Integer> fibonacciSeries = new ArrayList<Integer>();

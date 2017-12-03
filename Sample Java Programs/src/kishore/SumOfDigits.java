@@ -10,7 +10,7 @@ public class SumOfDigits {
 		System.out.println("Sum of digits: " + findSumOfDigits(number));
 		input.close();
 	}
-
+	
 	public static int findSumOfDigits(int number) {
 		int sum = 0;
 		while (number > 0) {

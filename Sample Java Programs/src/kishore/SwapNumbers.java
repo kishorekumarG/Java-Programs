@@ -12,6 +12,7 @@ public class SwapNumbers {
 		input.close();
 	}
 
+
 	public static void swapTwoNumbers(int number1, int number2) {
 		System.out.println("The two numbers before swapping are..");
 		System.out.println(number1 + "  " + number2);

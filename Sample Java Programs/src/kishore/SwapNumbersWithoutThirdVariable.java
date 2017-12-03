@@ -11,7 +11,7 @@ public class SwapNumbersWithoutThirdVariable {
 		swapTwoNumbersWithoutThirdVariable(number1, number2);
 		input.close();
 	}
-
+	
 	public static void swapTwoNumbersWithoutThirdVariable(int number1, int number2) {
 		System.out.println("The two numbers before swapping are..");
 		System.out.println(number1 + "  " + number2);

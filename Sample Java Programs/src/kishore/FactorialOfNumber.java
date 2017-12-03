@@ -11,7 +11,7 @@ public class FactorialOfNumber {
 		System.out.println("Factorial of the number " + number + " is " + factorial);
 		input.close();
 	}
-
+	
 	public static int findFactorial(int number) {
 		if (number == 1)
 			return 1;

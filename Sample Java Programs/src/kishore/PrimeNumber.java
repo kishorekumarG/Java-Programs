@@ -10,7 +10,7 @@ public class PrimeNumber {
 		System.out.println(number + " is prime : " + isPrime(number));
 		input.close();
 	}
-
+	
 	private static boolean isPrime(int number) {
 		int i = 2;
 		while(i <= number/2) {

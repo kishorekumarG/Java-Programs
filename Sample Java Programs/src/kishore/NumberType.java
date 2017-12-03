@@ -24,7 +24,6 @@ public class NumberType {
 		}
 		return (originalNumber == sum);
 	}
-
 	public static boolean isStrongNumber(int number) {
 		int factorialSum = 0;
 		int originalNumber = number;

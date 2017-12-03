@@ -1,7 +1,6 @@
 package kishore;
 
 import java.util.Scanner;
-
 /*
  * The Maximum and Minimum value of an array can also be found by sorting the array element
  * Arrays.sort(numberArray);

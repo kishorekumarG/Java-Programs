@@ -10,7 +10,7 @@ public class SumOfFactorialSeries {
 		System.out.println("Sum of Factorial Series upto " + number + " is " + addFactorials(number));
 		input.close();
 	}
-
+	
 	public static int addFactorials(int number) {
 		int sum = 0, i = 1;
 		while (i <= number) {
